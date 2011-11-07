@@ -1,6 +1,6 @@
 <?php
 /**
- * Handle Trackbacks and Pingbacks sent to WordPress
+ * germai Handle Trackbacks and Pingbacks sent to WordPress
  *
  * @package WordPress
  */
